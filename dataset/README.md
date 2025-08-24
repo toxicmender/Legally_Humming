@@ -17,3 +17,4 @@ The Paraquet format will be made, added or uploaded to Hugging Face.
 - [List of Acts of Parliament, Legislative reference](https://legislative.gov.in/legislative-references/)
 - [Income Tax Act of 1961, as amended by Finance Act of 2025](https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx)
 
+> #TODO: Load up the data of relevant acts, as list of Central, list of state and list of tax acts, and store it as a Apache Arrow > Paraquet table to be version controlled
